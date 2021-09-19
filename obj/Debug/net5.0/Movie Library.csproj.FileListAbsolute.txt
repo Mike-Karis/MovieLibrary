@@ -3,3 +3,18 @@ C:\Users\mikej\OneDrive - Waukesha County Technical College\WCTC Fall Semester 1
 C:\Users\mikej\OneDrive - Waukesha County Technical College\WCTC Fall Semester 1\Movie Library\obj\Debug\net5.0\Movie Library.AssemblyInfoInputs.cache
 C:\Users\mikej\OneDrive - Waukesha County Technical College\WCTC Fall Semester 1\Movie Library\obj\Debug\net5.0\Movie Library.AssemblyInfo.cs
 C:\Users\mikej\OneDrive - Waukesha County Technical College\WCTC Fall Semester 1\Movie Library\obj\Debug\net5.0\Movie Library.csproj.CoreCompileInputs.cache
+C:\Users\mikej\OneDrive - Waukesha County Technical College\WCTC Fall Semester 1\Movie Library\bin\Debug\net5.0\Movie Library.exe
+C:\Users\mikej\OneDrive - Waukesha County Technical College\WCTC Fall Semester 1\Movie Library\bin\Debug\net5.0\Movie Library.deps.json
+C:\Users\mikej\OneDrive - Waukesha County Technical College\WCTC Fall Semester 1\Movie Library\bin\Debug\net5.0\Movie Library.runtimeconfig.json
+C:\Users\mikej\OneDrive - Waukesha County Technical College\WCTC Fall Semester 1\Movie Library\bin\Debug\net5.0\Movie Library.runtimeconfig.dev.json
+C:\Users\mikej\OneDrive - Waukesha County Technical College\WCTC Fall Semester 1\Movie Library\bin\Debug\net5.0\Movie Library.dll
+C:\Users\mikej\OneDrive - Waukesha County Technical College\WCTC Fall Semester 1\Movie Library\bin\Debug\net5.0\ref\Movie Library.dll
+C:\Users\mikej\OneDrive - Waukesha County Technical College\WCTC Fall Semester 1\Movie Library\bin\Debug\net5.0\Movie Library.pdb
+C:\Users\mikej\OneDrive - Waukesha County Technical College\WCTC Fall Semester 1\Movie Library\bin\Debug\net5.0\NLog.dll
+C:\Users\mikej\OneDrive - Waukesha County Technical College\WCTC Fall Semester 1\Movie Library\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+C:\Users\mikej\OneDrive - Waukesha County Technical College\WCTC Fall Semester 1\Movie Library\bin\Debug\net5.0\NLog.Web.AspNetCore.dll
+C:\Users\mikej\OneDrive - Waukesha County Technical College\WCTC Fall Semester 1\Movie Library\obj\Debug\net5.0\Movie Library.csproj.CopyComplete
+C:\Users\mikej\OneDrive - Waukesha County Technical College\WCTC Fall Semester 1\Movie Library\obj\Debug\net5.0\Movie Library.dll
+C:\Users\mikej\OneDrive - Waukesha County Technical College\WCTC Fall Semester 1\Movie Library\obj\Debug\net5.0\ref\Movie Library.dll
+C:\Users\mikej\OneDrive - Waukesha County Technical College\WCTC Fall Semester 1\Movie Library\obj\Debug\net5.0\Movie Library.pdb
+C:\Users\mikej\OneDrive - Waukesha County Technical College\WCTC Fall Semester 1\Movie Library\obj\Debug\net5.0\Movie Library.genruntimeconfig.cache

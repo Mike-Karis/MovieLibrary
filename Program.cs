@@ -1,6 +1,7 @@
 ﻿using System;
 using NLog.Web;
 using System.IO;
+using System.Collections;
 
 namespace Movie_Library
 {
@@ -9,9 +10,12 @@ namespace Movie_Library
         static void Main(string[] args)
         {
             string[] lines;
-            List<string> movieID = new List<string>();
-            List<string> title = new List<string>();
-            List<string> genres = new List<string>();
+            var movieID = new ArrayList();
+            var title = new ArrayList();
+            var genres = new ArrayList();
+            // List<string> movieID = new List<string>();
+            // List<string> title = new List<string>();
+            // List<string> genres = new List<string>();
 
 
 
@@ -29,6 +33,8 @@ namespace Movie_Library
              
             }
         }
+
+        Console.WriteLine(title[4]);
         }
     }
 }
