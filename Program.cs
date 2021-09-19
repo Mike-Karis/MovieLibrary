@@ -9,15 +9,30 @@ namespace Movie_Library
     {
         static void Main(string[] args)
         {
-            string[] lines;
-            var movieID = new ArrayList();
-            var title = new ArrayList();
-            var genres = new ArrayList();
-            // List<string> movieID = new List<string>();
-            // List<string> title = new List<string>();
-            // List<string> genres = new List<string>();
+            // string[] lines;
+            // var movieID = new ArrayList();
+            // var title = new ArrayList();
+            // var genres = new ArrayList();
 
+            string choice;
+            do
+            {
+                Console.WriteLine("1) Read all movies from file.");
+                Console.WriteLine("2) Add movie to file.");
+                Console.WriteLine("Enter any other key to exit.");
+                choice = Console.ReadLine();
 
+                if (choice == "1")
+                {
+                        string readtext= File.ReadAllText("movies.csv");
+                        Console.WriteLine(readtext);
+                }
+                else if (choice == "2")
+                {
+                    string[] lines;
+                    var movieID = new ArrayList();
+                    var title = new ArrayList();
+                    var genres = new ArrayList();
 
             using (StreamReader sr = new StreamReader(File.OpenRead("movies.csv")))
         {
@@ -76,6 +91,9 @@ namespace Movie_Library
                             //sw.WriteLine();
                             sw.WriteLine(final);
                         }
+                }
+
+        } while (choice == "1" || choice == "2");
 
         }
     }
