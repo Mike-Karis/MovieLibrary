@@ -33,8 +33,38 @@ namespace Movie_Library
              
             }
         }
+        int x=0;J
+        while(x ==0){
+            int idTaken=0;
+            Console.WriteLine("Enter Movie ID: ");
+            string newID = Console.ReadLine();
+            for(int a =0;a<movieID.Count;a++){
+                if(newID.Equals(movieID[a])){
+                    Console.WriteLine("That ID is already taken.");
+                    idTaken=1;
+                    break;
+                }
+                else{}
+            }
+            if(idTaken==0){
+                    Console.WriteLine("Enter Movie Title: ");
+                    string newTitle = Console.ReadLine();
+                    for(int b=0;b<title.Count;b++){
+                         if(newTitle.Equals(title[b])){
+                            Console.WriteLine("That Title is already taken.");
+                            break;
+                        }
+                        else{
+                            x=1;
+                        }
 
-        Console.WriteLine(title[4]);
+                        }
+            }    
+            }
+
+        
+        
+
         }
     }
 }
