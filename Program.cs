@@ -72,9 +72,10 @@ namespace Movie_Library
             Console.WriteLine("Enter Genres each divided by a | ");
             final = final+Console.ReadLine();
             Console.WriteLine(final);
-
-        
-        
+             using (StreamWriter sw = File.AppendText("movies.csv")){
+                            //sw.WriteLine();
+                            sw.WriteLine(final);
+                        }
 
         }
     }
