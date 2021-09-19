@@ -1,0 +1,5 @@
+C:\Users\mikej\OneDrive - Waukesha County Technical College\WCTC Fall Semester 1\Movie Library\obj\Debug\net5.0\Movie Library.csproj.AssemblyReference.cache
+C:\Users\mikej\OneDrive - Waukesha County Technical College\WCTC Fall Semester 1\Movie Library\obj\Debug\net5.0\Movie Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikej\OneDrive - Waukesha County Technical College\WCTC Fall Semester 1\Movie Library\obj\Debug\net5.0\Movie Library.AssemblyInfoInputs.cache
+C:\Users\mikej\OneDrive - Waukesha County Technical College\WCTC Fall Semester 1\Movie Library\obj\Debug\net5.0\Movie Library.AssemblyInfo.cs
+C:\Users\mikej\OneDrive - Waukesha County Technical College\WCTC Fall Semester 1\Movie Library\obj\Debug\net5.0\Movie Library.csproj.CoreCompileInputs.cache
