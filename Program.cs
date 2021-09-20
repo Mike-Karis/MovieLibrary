@@ -9,10 +9,9 @@ namespace Movie_Library
     {
         static void Main(string[] args)
         {
-            // string[] lines;
-            // var movieID = new ArrayList();
-            // var title = new ArrayList();
-            // var genres = new ArrayList();
+            string path = Directory.GetCurrentDirectory() + "\\nlog.config";
+            var logger = NLog.Web.NLogBuilder.ConfigureNLog(path).GetCurrentClassLogger();
+            
 
             string choice;
             do
@@ -24,8 +23,14 @@ namespace Movie_Library
 
                 if (choice == "1")
                 {
+                    try{
                         string readtext= File.ReadAllText("movies.csv");
                         Console.WriteLine(readtext);
+                    }
+                     catch (Exception)
+                    {  
+                        logger.Error("Error File does not exist");
+                    }
                 }
                 else if (choice == "2")
                 {
